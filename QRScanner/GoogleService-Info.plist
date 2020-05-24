@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>932361188637-8t103v0sck8qt82kqmtascanlvdrofhp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.932361188637-8t103v0sck8qt82kqmtascanlvdrofhp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgEsVOa8CsL8mZdY_AZ623Eb487q1PS9c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>932361188637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rudra.Project-easyQ</string>
+	<key>PROJECT_ID</key>
+	<string>projecteasyq</string>
+	<key>STORAGE_BUCKET</key>
+	<string>projecteasyq.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:932361188637:ios:9a3ccf83f63ea5d6c25df4</string>
+	<key>DATABASE_URL</key>
+	<string>https://projecteasyq.firebaseio.com</string>
+</dict>
+</plist>
